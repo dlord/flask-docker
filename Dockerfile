@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3.4
 MAINTAINER John Paul Alcala, jpalcala@ayannah.com
 
 # Install nodejs
